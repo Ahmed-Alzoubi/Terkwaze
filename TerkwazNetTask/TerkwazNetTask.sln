@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TerkwazNetTask", "TerkwazNetTask.csproj", "{8106B724-5EF0-4C74-A3BE-9B799AA20481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerkwazView", "..\TerkwazView\TerkwazView.csproj", "{35CFAD7A-3312-43FA-9590-E45AB7193612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8106B724-5EF0-4C74-A3BE-9B799AA20481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8106B724-5EF0-4C74-A3BE-9B799AA20481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8106B724-5EF0-4C74-A3BE-9B799AA20481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8106B724-5EF0-4C74-A3BE-9B799AA20481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CFAD7A-3312-43FA-9590-E45AB7193612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CFAD7A-3312-43FA-9590-E45AB7193612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CFAD7A-3312-43FA-9590-E45AB7193612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CFAD7A-3312-43FA-9590-E45AB7193612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {581807BC-1E72-4B6F-B7DD-DB0AEA23B89F}
+	EndGlobalSection
+EndGlobal
